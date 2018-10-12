@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6FEEC700-E0CE-BD50-CC0E-EB18E07CBF19}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/earth.cs">
+    <Files>
+      <File FileName="Assets/sun.cs" Line="7" Column="1" />
+      <File FileName="Assets/earth.cs" Line="26" Column="1" />
+      <File FileName="Assets/moon.cs" Line="17" Column="9" />
+      <File FileName="Assets/sun2.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
